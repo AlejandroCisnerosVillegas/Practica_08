@@ -1,6 +1,5 @@
 <?php
-$conn = new mysqli("IP_Address","User","Password","DataBase_Name");
-	
+	$conn = new mysqli("localhost","root","","general");
 	if($conn->connect_errno)
 	{
 		echo "No hay conexión: (" . $conn->connect_errno . ") " . $conn->connect_error;
