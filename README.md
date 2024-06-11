@@ -1,3 +1,3 @@
-# Practica 08 
-## _Login y Registro con Contraseña Encriptada en HTML, CSS, SQL y PHP_
-Este login cuenta con una interfaz mejorada, tiene un botón que intercambia las ventanas entre registrar y el login. Uno se encarga de registrar al usuario y encriptar la contraseña, mientras que el otro se ocupa de desencriptar la contraseña.
+# Gestión de Acceso y Registro de Usuarios
+## _Área: Prácticas_
+Esta práctica se enfoca en el desarrollo de un sistema de gestión de acceso y registro de usuarios para una aplicación web. El código está escrito principalmente en PHP, HTML y CSS, con la integración de MySQL para la base de datos.
