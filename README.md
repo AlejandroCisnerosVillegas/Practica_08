@@ -20,7 +20,7 @@ Además, hay una página de inicio de sesión exitosa que muestra un mensaje de 
 
 En resumen, esta práctica demuestra la implementación de un sistema básico de gestión de acceso y registro de usuarios utilizando PHP, HTML, CSS y MySQL. Ofrece funcionalidades para iniciar sesión, registrar nuevas cuentas y cerrar sesión de manera segura.
 
-**Consulta la versión preliminar de la practica aquí:** [https://practica_08.com](https://alejandrovillegas.net/projects/practice-08/index.html)
+**Consulta la versión preliminar de la practica aquí:** [https://practica_08.com](https://www.alejandrovillegas.dev/projects/practice-08/index.html)
 
 # 📌 Información de la Practica
 
@@ -32,7 +32,7 @@ Esta practica ha sido desarrollado como parte del portafolio de soluciones tecno
 
 - **Fecha de Desarrollo**: 15 de agosto de 2018
 
-- **Portafolio de Proyectos**: [www.alejandrovillegas.net](https://www.alejandrovillegas.net/)
+- **Portafolio de Proyectos**: [www.alejandrovillegas.dev](https://www.alejandrovillegas.dev)
 
 # Guía de Instalación y Configuración
 
